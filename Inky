@@ -1,6 +1,6 @@
 public class Inky{
 	public Inky(String x){
-	  // System.out.println(x);
+	  System.out.println(x);
 	}
 	public Inky(String pinky,String Blinky,String Rinky){
 	   System.out.println(Blinky+" "+ Plinky);
@@ -9,7 +9,6 @@ public class Inky{
 	   
 
 	}
-	Run|Debug
 	Public static void main (String args[]){
 	   String Pinky = " Donky";
 
